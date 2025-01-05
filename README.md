@@ -20,9 +20,9 @@
  I'm  vuejs developer from Uzbekistan
  
  <ul>
-  <li>before I worked at MIT, as a programmer who developed vuejs web applications</li>
-  <li> I am currently working at DK mchj </li> 
-  <li> I am 24 years old </li>
+  <li>before I worked at MIT, DK, Algorithmic Solution, WEB Soft, as a programmer who developed vuejs web applications</li>
+  <li> I am currently working at EASY TECHNOLOGIES LLC company </li> 
+  <li> I am 26 years old </li>
   </ul>
 
 ---
